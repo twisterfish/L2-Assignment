@@ -1,2 +1,2 @@
 # L2-Assignment
-an open GitHub repo just for practice
+We'll use this repo to put various files to practice with.
