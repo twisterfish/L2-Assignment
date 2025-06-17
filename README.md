@@ -1,6 +1,7 @@
 # L2-Assignment
 We'll use this repo to put various files to practice with.
 
+
 Your first assignment:
 
 1. setup Terraform on your local machine
